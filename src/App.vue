@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <p>Commit 1</p>
+    <p>Commit from dev</p>
   </div>
 </template>
 
